@@ -12,3 +12,4 @@ List of exercises:
 
 * [hello-world](./exercism/kotlin/hello-world)
 * [two-fer](./exercism/kotlin/two-fer)
+* [hamming](./exercism/kotlin/hamming)

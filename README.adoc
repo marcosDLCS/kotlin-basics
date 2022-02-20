@@ -17,3 +17,5 @@ List of exercises:
 * link:./exercism/kotlin/hamming[hamming]
 * link:./exercism/kotlin/gigasecond[gigasecond]
 * link:./exercism/kotlin/scrabble-score[scrabble-score]
+* link:./exercism/kotlin/matrix[matrix]
+* link:./exercism/kotlin/difference-of-squares[difference-of-squares]

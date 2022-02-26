@@ -19,3 +19,6 @@ List of exercises:
 * link:./exercism/kotlin/scrabble-score[scrabble-score]
 * link:./exercism/kotlin/matrix[matrix]
 * link:./exercism/kotlin/difference-of-squares[difference-of-squares]
+* link:./exercism/kotlin/secret-handshake[secret-handshake]
+* link:./exercism/kotlin/triangle[triangle]
+* link:./exercism/kotlin/saddle-points[saddle-points]

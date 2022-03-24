@@ -1,8 +1,13 @@
 = kotlin-basics
+:toc:
 
 image::https://logo-logos.com/wp-content/uploads/2016/10/Kotlin_logo_image_picture.png[Kotlin logo,250,align="center"]
 
 Set of exercises and tutorials to learn Kotlin from scratch.
+
+== Atomic Kotlin
+
+Book: https://leanpub.com/AtomicKotlin
 
 == Exercism
 
@@ -12,15 +17,17 @@ Kotlin Track: https://exercism.org/tracks/kotlin
 
 List of exercises:
 
-* link:./exercism/kotlin/hello-world[hello-world]
-* link:./exercism/kotlin/two-fer[two-fer]
-* link:./exercism/kotlin/hamming[hamming]
-* link:./exercism/kotlin/gigasecond[gigasecond]
-* link:./exercism/kotlin/scrabble-score[scrabble-score]
-* link:./exercism/kotlin/matrix[matrix]
+* link:./exercism/kotlin/acronym[acronym]
 * link:./exercism/kotlin/difference-of-squares[difference-of-squares]
-* link:./exercism/kotlin/secret-handshake[secret-handshake]
-* link:./exercism/kotlin/triangle[triangle]
-* link:./exercism/kotlin/saddle-points[saddle-points]
+* link:./exercism/kotlin/gigasecond[gigasecond]
+* link:./exercism/kotlin/hamming[hamming]
+* link:./exercism/kotlin/hello-world[hello-world]
+* link:./exercism/kotlin/matrix[matrix]
 * link:./exercism/kotlin/pangram[pangram]
 * link:./exercism/kotlin/raindrops[raindrops]
+* link:./exercism/kotlin/rna-transcription[rna-transcription]
+* link:./exercism/kotlin/saddle-points[saddle-points]
+* link:./exercism/kotlin/scrabble-score[scrabble-score]
+* link:./exercism/kotlin/secret-handshake[secret-handshake]
+* link:./exercism/kotlin/triangle[triangle]
+* link:./exercism/kotlin/two-fer[two-fer]

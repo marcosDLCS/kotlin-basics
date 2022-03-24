@@ -22,3 +22,5 @@ List of exercises:
 * link:./exercism/kotlin/secret-handshake[secret-handshake]
 * link:./exercism/kotlin/triangle[triangle]
 * link:./exercism/kotlin/saddle-points[saddle-points]
+* link:./exercism/kotlin/pangram[pangram]
+* link:./exercism/kotlin/raindrops[raindrops]

@@ -1,4 +1,3 @@
-import org.junit.Ignore
 import org.junit.Test
 import java.util.Collections.emptySet
 import kotlin.test.assertEquals
@@ -20,7 +19,6 @@ class MatrixTest {
             )
         )
 
-    @Ignore
     @Test
     fun `no saddle points for empty matrix`() =
         assertSaddlePointsEqual(
@@ -28,7 +26,6 @@ class MatrixTest {
             emptySet()
         )
 
-    @Ignore
     @Test
     fun `no saddle points for nonempty matrix`() =
         assertSaddlePointsEqual(
@@ -42,7 +39,6 @@ class MatrixTest {
             emptySet()
         )
 
-    @Ignore
     @Test
     fun `multiple saddle points in a column`() =
         assertSaddlePointsEqual(
@@ -60,7 +56,6 @@ class MatrixTest {
             )
         )
 
-    @Ignore
     @Test
     fun `multiple saddle points in a row`() =
         assertSaddlePointsEqual(
@@ -78,7 +73,6 @@ class MatrixTest {
             )
         )
 
-    @Ignore
     @Test
     fun `saddle point in bottom right corner`() =
         assertSaddlePointsEqual(
@@ -94,7 +88,6 @@ class MatrixTest {
             )
         )
 
-    @Ignore
     @Test
     fun `saddle points in a single column matrix`() =
         assertSaddlePointsEqual(
@@ -112,7 +105,6 @@ class MatrixTest {
             )
         )
 
-    @Ignore
     @Test
     fun `saddle points in a single row matrix`() =
         assertSaddlePointsEqual(

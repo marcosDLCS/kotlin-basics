@@ -13,11 +13,14 @@ Book: https://leanpub.com/AtomicKotlin
 
 Platform: https://exercism.org/
 
+Public profile: https://exercism.org/profiles/marcosDLCS
+
 Kotlin Track: https://exercism.org/tracks/kotlin 
 
 List of exercises:
 
 * link:./exercism/kotlin/acronym[acronym]
+* link:./exercism/kotlin/darts/[darts]
 * link:./exercism/kotlin/difference-of-squares[difference-of-squares]
 * link:./exercism/kotlin/gigasecond[gigasecond]
 * link:./exercism/kotlin/hamming[hamming]
@@ -25,9 +28,12 @@ List of exercises:
 * link:./exercism/kotlin/matrix[matrix]
 * link:./exercism/kotlin/pangram[pangram]
 * link:./exercism/kotlin/raindrops[raindrops]
+* link:./exercism/kotlin/reverse-string/[reverse-string]
 * link:./exercism/kotlin/rna-transcription[rna-transcription]
 * link:./exercism/kotlin/saddle-points[saddle-points]
 * link:./exercism/kotlin/scrabble-score[scrabble-score]
 * link:./exercism/kotlin/secret-handshake[secret-handshake]
+* link:./exercism/kotlin/space-age[space-age]
 * link:./exercism/kotlin/triangle[triangle]
 * link:./exercism/kotlin/two-fer[two-fer]
+* link:./exercism/kotlin/yacht[yacht]

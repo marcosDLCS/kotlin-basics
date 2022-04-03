@@ -2,4 +2,4 @@
 .gradle
 build
 .exercism
-.DS.Store
+.DS_Store

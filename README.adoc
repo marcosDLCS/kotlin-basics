@@ -20,7 +20,9 @@ Kotlin Track: https://exercism.org/tracks/kotlin
 List of exercises:
 
 * link:./exercism/kotlin/acronym[acronym]
+* link:./exercism/kotlin/crypto-square[crypto-square]
 * link:./exercism/kotlin/darts/[darts]
+* link:./exercism/kotlin/dnd-character[dnd-character]
 * link:./exercism/kotlin/difference-of-squares[difference-of-squares]
 * link:./exercism/kotlin/gigasecond[gigasecond]
 * link:./exercism/kotlin/hamming[hamming]
